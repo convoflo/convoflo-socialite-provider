@@ -1,0 +1,23 @@
+{
+    "name": "socialiteproviders/convoflo",
+    "type": "library",
+    "description": "Convoflo OAuth2 Provider for Laravel Socialite",
+    "authors": [
+        {
+            "name": "Alexandre Demers",
+            "email": "alex.demers@convoflo.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Convoflo\\SocialiteProvider\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
