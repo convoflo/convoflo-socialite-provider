@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/convoflo",
+    "name": "convoflo/socialite-provider",
     "type": "library",
     "description": "Convoflo OAuth2 Provider for Laravel Socialite",
     "authors": [

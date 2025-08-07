@@ -1,7 +1,7 @@
 # Convoflo
 
 ```bash
-composer require socialiteproviders/convoflo
+composer require convoflo/socialite-provider
 ```
 
 ## Installation & Basic Usage
